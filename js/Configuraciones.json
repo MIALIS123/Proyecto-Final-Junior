@@ -1,0 +1,49 @@
+{
+    "navbar": [
+      {
+        "nombre": "Inicio",
+        "enlace": "Inicio.html",
+        "activo": true,
+        "claseDeCss": "nav-item nav-link"
+      },
+      {
+        "nombre": "Tabla Usuarios",
+        "enlace": "Tabla-Usuarios.html",
+        "activo": false,
+        "claseDeCss": "nav-item nav-link"
+      },
+      {
+        "nombre": "Tabla Rick",
+        "enlace": "Tabla-Rick.html",
+        "activo": false,
+        "claseDeCss": "nav-item nav-link"
+      },
+      {
+        "nombre": "Registro",
+        "enlace": "Registro.html",
+        "activo": false,
+        "claseDeCss": "nav-item nav-link"
+      }
+      
+    ],
+    "footer": [
+      
+      {
+        "nombre": "Facebook",
+        "enlace": "https://facebook.com",
+        "claseDeCss": "mx-2 fab fa-facebook-f"
+      },
+      {
+        "nombre": "Twitter",
+        "enlace": "https://twitter.com",
+        "claseDeCss": "mx-2 fab fa-twitter"
+      },
+      {
+        "nombre": "LinkedIn",
+        "enlace": "https://linkedin.com",
+        "claseDeCss": "mx-2 fab fa-linkedin"
+      }
+      
+    ]
+  }
+  
